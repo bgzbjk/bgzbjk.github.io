@@ -191,3 +191,34 @@ tr: &DEFAULT_TR
   powered_by: "Powered by"
 tr-TR:
   <<: *DEFAULT_TR
+
+
+# Chinese
+# -----------------
+zh: &DEFAULT_ZH
+  skip_links: "跳过链接"
+  skip_primary_nav: "跳到主要目录"
+  skip_content: "跳到内容"
+  skip_footer: "跳到页尾"
+  menu_label: "目录"
+  by: ""
+  min_read: "分钟"
+  read_more: "继续阅读"
+  categories: "分类"
+  tags: "标签"
+  pages_categorized: "页面分类"
+  pages_tagged: "页面标签"
+  table_of_contents: "主目录"
+  results_found: "未搜到结果"
+  share: "分享"
+  tweet: "推特"
+  next: "下一页"
+  previous: "上一页"
+  newer: "更新"
+  older: "更旧"
+  back_to_top: "回到顶"
+  search_placeholder_text: "请输入搜索内容"
+  powered_by: ""
+zh-CN:
+  <<: *DEFAULT_ZH
+
