@@ -22,7 +22,7 @@ description: "疫情防护不到位企业黑名单"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://bgzbjk.github.io
 logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%Y年%m月%-d日"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
