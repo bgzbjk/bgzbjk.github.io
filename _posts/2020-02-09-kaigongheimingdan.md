@@ -6,14 +6,18 @@ comments: true
 ---
 
 
-## 上海
-合法复工日期： [2月10日](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw12344/u26aw63451.html)*
+点击日期看企业开工通知
 {: .notice--danger}
+
+
+## 上海
+合法复工日期： [2月10日](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw12344/u26aw63451.html)
+{: .notice--accent}
 
 
 上海百安居装饰工程有限公司
 
-*要求复工日期：[1月28日](/images/sh1.jpg)*
+*要求复工日期：[1月28日](/images/sh1.jpg)
 > **举报者评论：**	现已上班，而且公司不给我们配备口罩，只顾企业利益，拿员工的生命开玩笑
 
 上海擎海母婴用品有限公司
