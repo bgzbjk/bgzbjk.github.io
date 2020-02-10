@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 今天全国确诊的新冠肺炎已有4万多例。一个多月内，900多条命已被这个突然而来的病毒夺走。广东目前有1000多例，上海接近300例。
 
-<div style="text-align:center"><img src="/images/yiqing-20200210.png"></div>
+<div style="text-align:center"><img src="/images/yiqing-20200210.png"></div><br>
 
 到了城市，人员密集密集的工厂和办公楼里，更是一个病毒传播的高风险地带。如果防疫工作不做好，全公司员工的命都会有危险。
 
