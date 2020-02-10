@@ -18,7 +18,7 @@ theme: # jekyll-theme-so-simple
 skin: "/assets/css/skins/dark.css"
 locale: zh-CN
 title: "保工资，保健康"
-description: "疫情防护不到位企业黑名单"
+description: "工人监督企业防疫情况网"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://bgzbjk.github.io
 logo: "/images/mask.png"
