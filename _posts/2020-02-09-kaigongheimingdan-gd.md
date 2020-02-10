@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "提前开工企业黑名单——广东"
+title: "提前开工黑名单——广东"
 date: 2020-02-09
 comments: true
 excerpt_separator: <!--more-->
